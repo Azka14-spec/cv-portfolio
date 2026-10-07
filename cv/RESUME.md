@@ -17,7 +17,7 @@ Motivated and proactive student with strong research, problem-solving, and commu
 ## EDUCATION
 
 **Cikal Lebak Bulus**  
-**High School (Senior High School)** | 2025–Present  
+**High School (Senior High School)** | 2026–Present  
 - Year 11 student actively involved in extracurricular activities and leadership programs
 - Focus on personal development, communication, and leadership skills
 
