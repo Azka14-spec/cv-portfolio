@@ -1,142 +1,111 @@
 # MOHAMMAD AZKA ARRASULI
 
 **Email:** Mohammadazka1411@gmail.com | **Phone:** +62 811 6888206  
-**Location:** BSD, Tangerang, Indonesia | **GitHub:** [github.com/Azka14-spec](https://github.com/Azka14-spec)
+**Location:** BSD, Tangerang (The Castilla Block B5 No. 29)  
+**School:** Cikal Lebak Bulus | **Grade:** Year 11 (Senior High School)  
+**Date of Birth:** November 14, 2009 (Age: 16)  
+**GitHub:** [github.com/Azka14-spec](https://github.com/Azka14-spec)
 
 ---
 
-## 👤 PROFILE SUMMARY
+## PROFILE
 
-Motivated and active student with interest in leadership, communication, teamwork, and personal development. Involved in school programs, extracurricular activities, and events that help build confidence, public speaking, collaboration, and responsibility. Interested in opportunities that allow me to learn, contribute, and grow through meaningful experiences.
+Motivated and proactive student with strong research, problem-solving, and communication skills. Experienced in leadership, teamwork, and taking initiative when needed. Confident in finding creative solutions and working independently or collaboratively to achieve results. Passionate about learning real-world applications through internships and community involvement.
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 
 **Cikal Lebak Bulus**  
-*Year 11* | *Expected Graduation: 2027*  
-- Active participant in school programs and extracurricular activities
-- Focus on leadership development and personal growth
-- Involved in cultural and community engagement initiatives
+**High School (Senior High School)** | 2025–Present  
+- Year 11 student actively involved in extracurricular activities and leadership programs
+- Focus on personal development, communication, and leadership skills
+
+**Cikal Lebak Bulus**  
+**Middle School** | 2022–2025  
+- Completed middle school education with active participation in school programs and activities
 
 ---
 
-## 💼 EXPERIENCE & ACTIVITIES
+## EXPERIENCE
 
-### Model United Nations (MUN)
-*School Program*
-- Participated in MUN program focused on global issues and diplomacy
-- Developed skills in public speaking, research, critical thinking, and argumentation
-- Gained confidence in discussing international affairs and defending positions
-- Strengthened teamwork and collaborative problem-solving abilities
+### Internship at Paragon
+**June – July 2025**
+- Gained firsthand experience in a real workplace environment and learned how professional teams operate
+- Developed polite communication skills and confidence in sharing ideas with colleagues
+- Learned about beauty brand creation, product development, and customer preferences
+- Understood how companies build products for different market segments
+- Gained practical knowledge applicable to future career development
 
-### Cultural Exchange Program
-*School Initiative*
-- Took part in a cultural exchange program to learn about different cultures and perspectives
-- Developed cross-cultural communication and understanding
-- Enhanced adaptability, empathy, and openness to diverse viewpoints
-- Gained international exposure and networking experience
+### Student Volunteer – CAA Education Outreach Program
+**2024**
+- Volunteered with the entire Year 8 class to teach children under age 10 with limited access to education
+- Created engaging learning experiences including art activities, songs, and age-appropriate knowledge
+- Improved communication, creativity, and leadership skills through mentoring and teaching
+- Inspired young learners while contributing to their educational development
 
-### CAA / CP (School Development Programs)
-*School Extracurricular*
-- Participated in school-based activities focused on personal and academic development
-- Developed communication skills and school engagement through structured programs
-- Built leadership and collaborative abilities through active participation
-
-### School Action Program
-*School Community Initiative*
-- Participated in school-based programs focused on contribution and community engagement
-- Developed responsibility, initiative, and teamwork through active involvement
-- Contributed to school community activities and support programs
-
-### Running Event
-*School / Community Event*
-- Participated in school running event demonstrating discipline and personal commitment
-- Built physical endurance, resilience, and personal improvement mindset
-- Showed dedication to health and fitness goals
-
-### Soccer Event
-*School Sports Activity*
-- Joined soccer activities improving teamwork, coordination, and sportsmanship
-- Learned discipline, communication, and cooperation in team settings
-- Developed athletic skills and resilience through sports participation
-
-### School Events (2x)
-*School Community*
-- Actively participated in school events requiring teamwork and preparation
-- Contributed to school community programs and initiatives
-- Demonstrated responsibility and active engagement in school life
+### Culminating Project
+**2025**
+- Developed an informative digital book educating teenagers on smart car-buying decisions
+- Addressed common issues such as prioritizing appearance over budget, practicality, and personal needs
+- Used research and personal observation to create awareness-raising content for first-time teen car buyers
+- Demonstrated research, problem-solving, and creative content creation skills
 
 ---
 
-## 🏆 ACHIEVEMENTS & AWARDS
+## ACHIEVEMENTS & AWARDS
 
-### Certifications
-- **Music Competition Certificate** - School Music Festival | [Year to be added]
-- [Additional certifications to be added with dates and details]
+### Athletic Achievements
+- **3x 10K Finisher** - Completed three 10-kilometer running events, demonstrating endurance and commitment
+- **KL Cup - 2nd Place** - Achieved second place in the KL Cup competition
+- **Cikal Cup - 3rd Place** - Placed third in the Cikal Cup competition
+- **Football Since Year 1** - Actively played football throughout middle school and beyond
 
-### Awards & Recognition
-- School event participation and recognition
-- Running event participation
-- Soccer event participation
-- [Additional awards to be documented with proof]
-
-*Certificates and proofs are documented in the `/achievements/` folder.*
+### Recognition
+- Active participant in school leadership and community programs
+- Demonstrated initiative and responsibility in academic and extracurricular activities
 
 ---
 
-## 💻 SKILLS
+## SKILLS
 
 ### Soft Skills
-- Communication & Public Speaking
-- Teamwork & Collaboration
-- Leadership & Initiative
-- Problem-Solving
-- Time Management
-- Responsibility & Reliability
-- Creativity & Innovation
-- Adaptability
-- Critical Thinking
-
-### Technical & Digital Skills
-- Canva (Design & Presentations)
-- Microsoft Office (Word, PowerPoint, Excel)
-- Basic digital presentation skills
-- Research and information gathering
+- **Leadership** - Demonstrated through volunteer work and taking initiative in group projects
+- **Teamwork** - Experienced in collaborating with peers and professionals in school and internship settings
+- **Effective Communication** - Developed through public speaking, team projects, and workplace interactions
+- **Critical Thinking** - Strong problem-solving abilities and creative solution-finding
+- **Research Skills** - Confident in finding reliable information and using it to create solutions
+- **Initiative & Independence** - Takes on full responsibility when needed to ensure quality results
+- **Time Management** - Balances academics, sports, volunteering, and extracurricular activities
 
 ### Languages
 - **Indonesian** - Native
 - **English** - Fluent
 
----
-
-## 🎯 INTERESTS & HOBBIES
-
-- Music (Competition & Performance)
-- Sports (Running, Soccer)
-- Leadership & Student Activities
-- Public Speaking & Debate
-- Community Engagement
-- Learning & Personal Development
-- Teamwork & Collaboration
+### Interests & Activities
+- Football
+- Badminton
+- Singing
+- Gaming
+- Extremely online / Digital engagement
 
 ---
 
-## 📈 CAREER INTERESTS
+## CURRENT INTERESTS
 
-- **Target Areas:** Leadership, Communication, Technology, Business
-- **Looking For:** Internships, school programs, learning opportunities
-- **Career Goal:** Develop skills in teamwork, management, and personal growth for future professional opportunities
+- Career development in business, communication, or product-based industries
+- Continued learning through internships and real-world experiences
+- Leadership and team-based opportunities
+- Personal growth and professional skill development
 
 ---
 
-## 📎 LINKS & PORTFOLIO
+## PORTFOLIO & LINKS
 
 - **Full Portfolio:** https://github.com/Azka14-spec/cv-portfolio
 - **GitHub:** https://github.com/Azka14-spec
-- **Resume Link (Direct):** https://github.com/Azka14-spec/cv-portfolio/blob/main/cv/RESUME.md
 
 ---
 
-**Last Updated:** October 2026  
-*In Progress - Continuously being updated with new achievements, certificates, and experiences.*
+**Last Updated:** October 7, 2026  
+*This resume reflects current achievements and continues to be updated with new experiences, certifications, and accomplishments.*
