@@ -21,7 +21,7 @@ Motivated and proactive student with strong research, problem-solving, and commu
 - Year 11 student actively involved in extracurricular activities and leadership programs
 - Focus on personal development, communication, and leadership skills
 
-**Cikal Lebak Bulus**  
+**Cikal Serpong**  
 **Middle School** | 2022–2025  
 - Completed middle school education with active participation in school programs and activities
 
